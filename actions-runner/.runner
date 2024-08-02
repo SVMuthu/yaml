@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "svm",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus25.actions.githubusercontent.com/Csrc5MvdELRRl5ktSepP5MYyP4WKJKQsTyuDHAW3XF9O5MlZM4/",
+  "gitHubUrl": "https://github.com/SVMuthu/yaml",
+  "workFolder": "_work"
+}
